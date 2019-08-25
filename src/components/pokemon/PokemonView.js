@@ -26,6 +26,7 @@ export default () => {
                     pokemon={pokemon}
                     withoutView
                     catchable
+                    withDetail
                 />
             </Grid>
         </Grid>
